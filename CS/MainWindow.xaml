@@ -1,4 +1,4 @@
-﻿<Window x:Class="How_to_Drag_and_Drop_Between_GridControl_and_Other_Controls.MainWindow"
+<Window x:Class="How_to_Drag_and_Drop_Between_GridControl_and_Other_Controls.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" 
