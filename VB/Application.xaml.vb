@@ -19,11 +19,11 @@ Imports System.Linq
 Imports System.Windows
 
 Namespace How_to_Drag_and_Drop_Between_GridControl_and_Other_Controls
-    ''' <summary>
-    ''' Interaction logic for App.xaml
-    ''' </summary>
-    Partial Public Class App
-        Inherits Application
+	''' <summary>
+	''' Interaction logic for App.xaml
+	''' </summary>
+	Partial Public Class App
+		Inherits Application
 
-    End Class
+	End Class
 End Namespace
