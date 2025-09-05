@@ -9,7 +9,7 @@
 
 The [GridControl](http://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) allows dragging records and dropping them in external controls. This example shows how to implement drag-and-drop between the [GridControl](http://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) and another control that does not have a built-in drag-and-drop functionality.
 
-![](http://docs.devexpress.com/WPF/images/dragdropbetweengridcontrolandothercontrols131056.gif?v=22.1)
+![](http://docs.devexpress.com/WPF/images/dragdropbetweengridcontrolandothercontrols131056.gif)
 
 <!-- default file list -->
 
@@ -37,3 +37,4 @@ The [GridControl](http://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
